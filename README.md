@@ -25,6 +25,18 @@ I build products that solve real problems. Currently working on **MedScribe AI**
 |---------|-------------|-------|
 | [MedScribe AI](https://github.com/zaidxshaikh/MedScribe-AI) | Voice-to-SOAP notes for therapists | Next.js, Supabase, Gemini, Deepgram |
 
+### Completed Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [iNoteBook](https://github.com/zaidxshaikh/iNoteBook) | Cloud-based notebook app | React, Node.js, MongoDB |
+| [React-Food-Delivery](https://github.com/zaidxshaikh/React-Food-Delivery) | Food delivery web app | React, CSS |
+| [React-Live-News](https://github.com/zaidxshaikh/React-Live-News) | Live news aggregator | React, News API |
+| [PortFolio](https://github.com/zaidxshaikh/PortFolio) | Personal portfolio website | React, CSS |
+| [Myntra Clone](https://github.com/zaidxshaikh/JavaScript-Myntra-Functional-Clone) | Functional Myntra e-commerce clone | JavaScript, HTML, CSS |
+| [React-Restaurant](https://github.com/zaidxshaikh/React-Restaurant) | Restaurant landing page | React, CSS |
+| [React-Image-Loader](https://github.com/zaidxshaikh/React-Image-Loader) | Image loader component | React |
+
 ---
 
 ### Tech Stack
