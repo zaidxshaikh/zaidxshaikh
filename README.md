@@ -19,7 +19,12 @@
 
 ### About Me
 
-I build products that solve real problems. Currently working on **MedScribe AI** — a HIPAA-compliant voice-to-clinical-notes SaaS for mental health professionals.
+- Full-Stack Developer with 3+ years of experience building web and mobile applications
+- Specialized in **React**, **Next.js**, **React Native**, **Node.js**, **NestJS** and **Strapi**
+- Currently building **MedScribe AI** — a HIPAA-compliant voice-to-clinical-notes SaaS for therapists
+- Experience with **PostgreSQL**, **MongoDB**, **Supabase**, and **AI/LLM integrations**
+- Built production apps including POS systems, e-commerce platforms, and SaaS products
+- Passionate about clean code, scalable architecture, and shipping fast
 
 ---
 
