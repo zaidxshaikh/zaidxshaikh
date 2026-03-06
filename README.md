@@ -8,7 +8,7 @@ I build products that solve real problems — currently working on **MedScribe A
 
 ### What I'm Building
 
-- **MedScribe AI** — Voice-to-SOAP notes for therapists. 60-second dictation, complete clinical notes. [View Repo](https://github.com/shaikh-zaiid/MedScribe-AI)
+- **MedScribe AI** — Voice-to-SOAP notes for therapists. 60-second dictation, complete clinical notes. [View Repo](https://github.com/zaidxshaikh/MedScribe-AI)
 
 ### Tech I Work With
 
@@ -23,21 +23,21 @@ I build products that solve real problems — currently working on **MedScribe A
 ### Stats
 
 <p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaikh-zaiid&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shaikh-zaiid&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zaidxshaikh&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zaidxshaikh&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 ### Streak
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=shaikh-zaiid&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=zaidxshaikh&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### Connect
 
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/shaikh-zaiid)
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/zaidxshaikh)
 - **Email:** Open for collaborations and freelance work
 
 ---
