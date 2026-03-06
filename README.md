@@ -3,6 +3,10 @@
 <p align="center">Ahmedabad, India</p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge" alt="Open to Work" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/shaikh-zaid-581669226/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
