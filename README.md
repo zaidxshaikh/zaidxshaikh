@@ -37,7 +37,7 @@ I build products that solve real problems — currently working on **MedScribe A
 
 ### Connect
 
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/zaidxshaikh)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shaikh-zaid-581669226/)
 - **Email:** Open for collaborations and freelance work
 
 ---
