@@ -36,6 +36,8 @@ I build products that solve real problems. Currently working on **MedScribe AI**
 | [Myntra Clone](https://github.com/zaidxshaikh/JavaScript-Myntra-Functional-Clone) | Functional Myntra e-commerce clone | JavaScript, HTML, CSS |
 | [React-Restaurant](https://github.com/zaidxshaikh/React-Restaurant) | Restaurant landing page | React, CSS |
 | [React-Image-Loader](https://github.com/zaidxshaikh/React-Image-Loader) | Image loader component | React |
+| Social Commerce POS | Social commerce point-of-sale system | React, Node.js |
+| Offline-First POS | Offline-capable POS application | React, IndexedDB |
 
 ---
 
@@ -61,6 +63,7 @@ I build products that solve real problems. Currently working on **MedScribe AI**
 ![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 #### AI & APIs
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
