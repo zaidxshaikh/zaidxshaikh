@@ -1,6 +1,6 @@
 <h1 align="center">Shaikh Zaid</h1>
-<h3 align="center">Full-Stack Developer | SaaS Builder | Engineer Shipping Production Apps</h3>
-<p align="center">Ahmedabad, India</p>
+<h3 align="center">Full-Stack AI Systems Engineer | Production RAG & Agent Pipelines | SaaS Builder</h3>
+<p align="center">Ahmedabad, India (IST) · Working with clients across the US, UK, EU, and APAC</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge" alt="Open to Work" />
@@ -26,13 +26,23 @@
 
 ### About Me
 
-- Full-Stack Developer with **2+ years** of experience shipping production web and mobile applications
-- Currently engineering scalable SaaS at **Upstrapp Inc.** — client-facing products on **React, Next.js, NestJS, MongoDB, AWS**
-- Building **MedScribe AI**, **TradeAgent AI**, and **AgentAudit OS** on the side — production SaaS platforms with AI agents, voice/SMS pipelines, and enterprise compliance
-- Specialized in **React, Next.js, React Native, Node.js, NestJS, FastAPI, TypeScript, Strapi**
-- Comfortable across **PostgreSQL, MongoDB, Supabase**, and **AI/LLM integrations** (Gemini, Deepgram, ElevenLabs, LangChain)
-- Shipped production POS systems, e-commerce platforms, AI-powered apps, automation bots, and enterprise SaaS
-- Focus on clean code, scalable architecture, and shipping fast
+Most AI features die between the demo and production. I build the part that survives: deterministic control flow, error handling, rate limiting, observability, and audit trails from the first commit.
+
+- Full-Stack Developer at **Upstrapp Inc.** since January 2025, shipping client-facing SaaS on **React, Next.js, NestJS, MongoDB, AWS**
+- **2+ years** shipping production web and mobile applications, end to end
+- Building **TradeAgent AI**, **AgentAudit OS**, and **MedScribe AI**: production SaaS with AI agents, voice/SMS pipelines, and enterprise compliance
+- Agent design: **explicit state machines** with replayable control flow, not open-ended LLM loops
+- Work measured in **latency, reliability, cost, and auditability**
+- Compliance-aware builds: **EU AI Act, NIST AI RMF, ISO 42001, SR 11-7, HIPAA**
+- Open-source contributor (**Appwrite**)
+
+### What I Take On
+
+| Engagement | What you get |
+|------------|--------------|
+| **AI system audit** | Review of an existing RAG or agent pipeline: failure modes, cost, latency, eval coverage, compliance gaps |
+| **SaaS MVP** | Full-stack build from schema to deploy: auth, billing, AI features, CI/CD |
+| **RAG & agent pipelines** | Retrieval, orchestration, and evals harnesses wired into an existing product |
 
 ---
 
@@ -67,13 +77,21 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [Personal Portfolio v2](https://zaidxshaikh.vercel.app) | Terminal-themed Next.js 14 portfolio — Lighthouse 90+/96/100/100 | Next.js 14, TypeScript, Tailwind, Framer Motion |
 | [React Live News](https://github.com/zaidxshaikh/React-Live-News) · [Live](https://zaidxshaikh-news.vercel.app) | AI news platform with chatbot, summaries, glassmorphism UI | React 18, Vite, NewsAPI |
-| [iNoteBook](https://github.com/zaidxshaikh/iNoteBook) | Secure cloud notebook with JWT auth + encrypted storage | React, Node.js, Express, MongoDB |
 | [React Image Loader](https://github.com/zaidxshaikh/React-Image-Loader) | Performance library — Intersection Observer, blur-up, WebP detection | React, JavaScript |
+| [iNoteBook](https://github.com/zaidxshaikh/iNoteBook) | Secure cloud notebook with JWT auth + encrypted storage | React, Node.js, Express, MongoDB |
+
+<details>
+<summary>Earlier work</summary>
+
+| Project | Description | Stack |
+|---------|-------------|-------|
 | [React Food Delivery](https://github.com/zaidxshaikh/React-Food-Delivery) | Food delivery with restaurant discovery, Redux cart, order tracking | React, Tailwind, Redux |
 | [Myntra Clone](https://github.com/zaidxshaikh/JavaScript-Myntra-Functional-Clone) | Functional Myntra e-commerce clone with Redux cart | JavaScript, HTML, CSS |
 | [React Restaurant](https://github.com/zaidxshaikh/React-Restaurant) | Restaurant landing with menu tabs + reservations | React, JavaScript, CSS |
-| [Personal Portfolio v2](https://zaidxshaikh.vercel.app) | Terminal-themed Next.js 14 portfolio — Lighthouse 90+/96/100/100 | Next.js 14, TypeScript, Tailwind, Framer Motion |
+
+</details>
 
 ---
 
@@ -89,28 +107,33 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js_14/15-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Tailwind v4](https://img.shields.io/badge/-Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![ShadCN UI](https://img.shields.io/badge/-ShadCN-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Material UI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-443E38?style=flat-square)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Motion](https://img.shields.io/badge/-Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![React Three Fiber](https://img.shields.io/badge/-React_Three_Fiber-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify_Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 
-**AI / ML**
+**AI / LLM**
 
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/-Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square)
+![pgvector](https://img.shields.io/badge/-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square)
 ![Deepgram](https://img.shields.io/badge/-Deepgram-13EF93?style=flat-square&logo=deepgram&logoColor=black)
 ![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=flat-square)
 
@@ -131,19 +154,20 @@
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Typesense](https://img.shields.io/badge/-Typesense-DA5246?style=flat-square)
-![IndexedDB](https://img.shields.io/badge/-IndexedDB-FFCA28?style=flat-square)
 
 **DevOps & Cloud**
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 ![Nx](https://img.shields.io/badge/-Nx-143055?style=flat-square&logo=nx&logoColor=white)
@@ -165,7 +189,7 @@
 ### 💬 Get In Touch
 
 <p align="center">
-  Building something interesting? Hiring full-stack engineers? Need a freelance partner?
+  Taking an AI feature from demo to production? Hiring a full-stack engineer? Need a freelance partner?
 </p>
 <p align="center">
   <a href="mailto:zaidshaikh2766@gmail.com">📧 zaidshaikh2766@gmail.com</a>
