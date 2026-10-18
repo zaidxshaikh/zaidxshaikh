@@ -48,6 +48,7 @@
 | **CryptoTrack** 🪙 | Cryptocurrency investigation & forensic analysis tool — Ahmedabad City Police Innovation Challenge 2026 | FastAPI, PostgreSQL, React, Cytoscape, Recharts |
 | **Diagnostic Reasoning Platform** 🧪 | Clinical diagnostic-reasoning platform for UK Biomedical Science programmes (client work) | Next.js, TypeScript, Drizzle, Docker |
 | **AI Practical Coach** 🎥 | Camera-guided lab practical coach for biomedical science students, with student / lecturer / admin roles (client work) | Next.js, TypeScript |
+| **Body Avatar POC** 🧍 | Photo-to-3D-avatar proof of concept for a rehab startup — capture guidance, anthropometric body measurements, calibration readout (client work) | Next.js, React, Three.js |
 
 ### 🚀 Flagship Private Projects
 
