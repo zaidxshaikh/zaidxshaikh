@@ -56,7 +56,6 @@
 |---------|-------------|-------|
 | **CERLON — Nylon Fittings** 🏭 · [Live](https://nylon-fittings-site.vercel.app) | Lead-gen site for an Ahmedabad nylon tube & lubrication fittings manufacturer — quote CTA on every page, product range, enquiry capture | Next.js 15, React 19, Tailwind 4, PostgreSQL, Strapi |
 | **Areeb** 🧴 · [Live](https://areeb-site-one.vercel.app) | 3D storefront for a premium eau de parfum & attar brand | HTML, CSS, JavaScript |
-| **Zaiba Malek — Interior Design** 🛋️ · [Live](https://zaiba-portfolio.vercel.app) | Dark editorial portfolio with hero slideshow, split-text reveals, sticky-stack project cards | HTML, CSS, JavaScript |
 | **Fazil Shaikh — Digital Marketing** 📈 · [Live](https://fazil-shaikh-one.vercel.app) | Portfolio for a digital marketing & social media manager | HTML, CSS, JavaScript |
 | **Shaikh Museb — Developer Portfolio** 💻 · [Live](https://museb-portfolio.vercel.app) | Fully static freelance portfolio for a full-stack & AI automation engineer | Next.js 15, React 19, TypeScript, Tailwind 4 |
 | **Papas Legacy** 🌍 | Landing site for an overseas recruitment consultancy with an interactive dotted-earth globe and scroll animations | HTML, CSS, JavaScript, Three.js, GSAP |
