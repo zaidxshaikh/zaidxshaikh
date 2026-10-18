@@ -1,5 +1,5 @@
 <h1 align="center">Shaikh Zaid</h1>
-<h3 align="center">Full-Stack Developer | SaaS Builder | Engineer Shipping Production Apps</h3>
+<h3 align="center">Full-Stack AI Systems Engineer | RAG Pipelines · LLM Agents · Production SaaS</h3>
 <p align="center">Ahmedabad, India</p>
 
 <p align="center">
@@ -26,15 +26,28 @@
 
 ### About Me
 
-- Full-Stack Developer with **2+ years** of experience shipping production web and mobile applications
+- Full-Stack AI Systems Engineer with **2+ years** of experience shipping production web, mobile, and AI applications
 - Currently engineering scalable SaaS at **Upstrapp Inc.** — client-facing products on **React, Next.js, NestJS, MongoDB, AWS**
-- Building **MedScribe AI**, **TradeAgent AI**, and **AgentAudit OS** on the side — production SaaS platforms with AI agents, voice/SMS pipelines, and enterprise compliance
+- Founder of **SnapMatch** — AI event photo sharing (QR + face recognition) for wedding and event photographers
+- Built **CrimeGPT**, **NETRA**, and **CryptoTrack** for the **Ahmedabad City Police Innovation Challenge 2026** (Cyber Crime Branch)
+- Also building **MedScribe AI**, **TradeAgent AI**, and **AgentAudit OS** — SaaS platforms with AI agents, voice/SMS pipelines, and enterprise compliance
 - Specialized in **React, Next.js, React Native, Node.js, NestJS, FastAPI, TypeScript, Strapi**
 - Comfortable across **PostgreSQL, MongoDB, Supabase**, and **AI/LLM integrations** (Gemini, Deepgram, ElevenLabs, LangChain)
 - Shipped production POS systems, e-commerce platforms, AI-powered apps, automation bots, and enterprise SaaS
 - Focus on clean code, scalable architecture, and shipping fast
 
 ---
+
+### 🆕 Recent Builds (2026)
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **SnapMatch** 📸 | AI event photo sharing — guests scan a QR, take a selfie, and get only their photos via face recognition. India-first B2B SaaS for wedding photographers | Next.js, TypeScript, Python, PostgreSQL, Docker |
+| **CrimeGPT** ⚖️ | AI crime documentation & legal intelligence on BNS / BNSS / BSA — Ahmedabad City Police Innovation Challenge 2026 | FastAPI, PostgreSQL, Claude API, React, Vite |
+| **NETRA** 🛰️ | Network & packet forensics platform for cyber crime investigation — Ahmedabad City Police Innovation Challenge 2026 | FastAPI, Scapy, PostgreSQL, React, Cytoscape |
+| **CryptoTrack** 🪙 | Cryptocurrency investigation & forensic analysis tool — Ahmedabad City Police Innovation Challenge 2026 | FastAPI, PostgreSQL, React, Cytoscape, Recharts |
+| **Diagnostic Reasoning Platform** 🧪 | Clinical diagnostic-reasoning platform for UK Biomedical Science programmes (client work) | Next.js, TypeScript, Drizzle, Docker |
+| **AI Practical Coach** 🎥 | Camera-guided lab practical coach for biomedical science students, with student / lecturer / admin roles (client work) | Next.js, TypeScript |
 
 ### 🚀 Flagship Private Projects
 
@@ -63,7 +76,7 @@
 | **Multi-Tenant E-Commerce** 🛍️ | Nx monorepo enabling code sharing across multiple storefronts | Nx, Next.js, React, TypeScript |
 | **Invoice Automation (SAP)** 📊 | SAP-integrated invoice automation pipeline | Node.js, SAP integration, document AI |
 
-### 💼 Public Open Source Projects
+### 💼 Public Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
