@@ -85,8 +85,8 @@
 | **ForexGodBot** 🤖 | Automated forex trading bot, VPS-deployed with 24/7 uptime via PM2 + Docker | Node.js, PM2, Docker, Telegram API, VPS |
 | **Pharmacy Job Finder** 🔍 | Bot scraping 4 pharmacy job platforms hourly with Telegram alerts | Node.js, Puppeteer, Telegram, Cron |
 | **Freelance Job Finder** 💼 | Bot scraping 4 freelance platforms with real-time Telegram push | Node.js, Puppeteer, Telegram, PM2, Docker |
-| **Multi-Tenant E-Commerce** 🛍️ | Nx monorepo enabling code sharing across multiple storefronts | Nx, Next.js, React, TypeScript |
-| **Invoice Automation (SAP)** 📊 | SAP-integrated invoice automation pipeline | Node.js, SAP integration, document AI |
+| **StoreForge** 🛍️ | Multi-tenant e-commerce on an Nx monorepo, sharing code across multiple storefronts | Nx, Next.js, React, TypeScript |
+| **LedgerLink** 📊 | Invoice automation pipeline integrated with SAP | Node.js, SAP integration, document AI |
 
 ### 💼 Public Projects
 
