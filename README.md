@@ -50,6 +50,18 @@
 | **AI Practical Coach** 🎥 | Camera-guided lab practical coach for biomedical science students, with student / lecturer / admin roles (client work) | Next.js, TypeScript |
 | **Body Avatar POC** 🧍 | Photo-to-3D-avatar proof of concept for a rehab startup — capture guidance, anthropometric body measurements, calibration readout (client work) | Next.js, React, Three.js |
 
+### 🌐 Client Websites & Apps (Live)
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **CERLON — Nylon Fittings** 🏭 · [Live](https://nylon-fittings-site.vercel.app) | Lead-gen site for an Ahmedabad nylon tube & lubrication fittings manufacturer — quote CTA on every page, product range, enquiry capture | Next.js 15, React 19, Tailwind 4, PostgreSQL, Strapi |
+| **Areeb** 🧴 · [Live](https://areeb-site-one.vercel.app) | 3D storefront for a premium eau de parfum & attar brand | HTML, CSS, JavaScript |
+| **Zaiba Malek — Interior Design** 🛋️ · [Live](https://zaiba-portfolio.vercel.app) | Dark editorial portfolio with hero slideshow, split-text reveals, sticky-stack project cards | HTML, CSS, JavaScript |
+| **Fazil Shaikh — Digital Marketing** 📈 · [Live](https://fazil-shaikh-one.vercel.app) | Portfolio for a digital marketing & social media manager | HTML, CSS, JavaScript |
+| **Shaikh Museb — Developer Portfolio** 💻 · [Live](https://museb-portfolio.vercel.app) | Fully static freelance portfolio for a full-stack & AI automation engineer | Next.js 15, React 19, TypeScript, Tailwind 4 |
+| **Papas Legacy** 🌍 | Landing site for an overseas recruitment consultancy with an interactive dotted-earth globe and scroll animations | HTML, CSS, JavaScript, Three.js, GSAP |
+| **Gatik** 📦 | Parcel pickup & drop app for Mumbai — one Flutter app serving both customers and the admin desk | Flutter, Dart |
+
 ### 🚀 Flagship Private Projects
 
 | Project | Description | Stack |
@@ -87,7 +99,7 @@
 | [React Food Delivery](https://github.com/zaidxshaikh/React-Food-Delivery) | Food delivery with restaurant discovery, Redux cart, order tracking | React, Tailwind, Redux |
 | [Myntra Clone](https://github.com/zaidxshaikh/JavaScript-Myntra-Functional-Clone) | Functional Myntra e-commerce clone with Redux cart | JavaScript, HTML, CSS |
 | [React Restaurant](https://github.com/zaidxshaikh/React-Restaurant) | Restaurant landing with menu tabs + reservations | React, JavaScript, CSS |
-| [Personal Portfolio v2](https://zaidxshaikh.vercel.app) | Terminal-themed Next.js 14 portfolio — Lighthouse 90+/96/100/100 | Next.js 14, TypeScript, Tailwind, Framer Motion |
+| [Personal Portfolio v2](https://zaidxshaikh.vercel.app) | 3D spatial hero, ⌘K command palette, and an "Ask Zaid AI" chatbot grounded in my resume and projects | Next.js 15, React 19, Three.js, Tailwind 4, Vercel AI SDK |
 
 ---
 
@@ -102,6 +114,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -112,6 +125,9 @@
 ![Next.js](https://img.shields.io/badge/-Next.js_14/15-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 ![Tailwind v4](https://img.shields.io/badge/-Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![ShadCN UI](https://img.shields.io/badge/-ShadCN-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
